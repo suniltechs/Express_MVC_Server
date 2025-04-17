@@ -1,21 +1,3 @@
 20250417	09:09:43	4f30ef2b-9352-471a-92d8-ea141d5a01b3	Error: Not allowed by CORS
 20250417	09:09:43	b34e129b-546d-4589-8cc5-88bc301b2286	Error: Not allowed by CORS
 20250417	11:56:18	febe3d80-4c6e-4df5-bfda-cf8566322b08	ReferenceError: path is not defined
-20250417	11:58:51	74bb73f7-1868-47d2-80c8-3290ae9c6671	Error: ENOENT: no such file or directory, stat 'C:\Users\sunil\Downloads\nodejs_web_server-main\subdir\index.html'
-20250417	11:58:55	593f1081-acb9-4498-9a24-ffa0c3835ed9	Error: ENOENT: no such file or directory, stat 'C:\Users\sunil\Downloads\nodejs_web_server-main\subdir\index.html'
-20250417	11:58:56	7fe95646-7d1b-45a8-82a7-698c9e150f8c	Error: ENOENT: no such file or directory, stat 'C:\Users\sunil\Downloads\nodejs_web_server-main\subdir\index.html'
-20250417	11:58:56	5030a7a2-ae90-4981-a11e-b860e8473ff5	Error: ENOENT: no such file or directory, stat 'C:\Users\sunil\Downloads\nodejs_web_server-main\subdir\index.html'
-20250417	11:58:56	33a86162-0c0b-4636-a63d-6dfcd0dbf6c2	Error: ENOENT: no such file or directory, stat 'C:\Users\sunil\Downloads\nodejs_web_server-main\subdir\index.html'
-20250417	14:42:46	8ee46dc3-ef7a-422c-ada9-16074bbd817d	TypeError: Cannot read properties of undefined (reading 'firstname')
-20250417	14:43:47	c9fd40f0-5be8-4776-8bf7-180e1af62581	TypeError: Cannot read properties of undefined (reading 'firstname')
-20250417	14:43:48	67971867-9469-4433-9134-17eccaa645c4	TypeError: Cannot read properties of undefined (reading 'firstname')
-20250417	14:43:49	c582bb39-659b-4b9d-a045-963f124c99f1	TypeError: Cannot read properties of undefined (reading 'firstname')
-20250417	14:43:50	a2e93133-0850-4f17-b9c6-eac7a1573d61	TypeError: Cannot read properties of undefined (reading 'firstname')
-20250417	14:43:51	f6f91190-b2d3-4e9b-8638-f23f8bee61df	TypeError: Cannot read properties of undefined (reading 'firstname')
-20250417	14:44:32	a3c3fe01-a8e8-4b4f-83c6-0589c03be17e	TypeError: Cannot read properties of undefined (reading 'firstname')
-20250417	14:44:34	92c02865-db06-4a85-a0fd-9db65b12c10c	TypeError: Cannot read properties of undefined (reading 'firstname')
-20250417	14:44:35	c348f2c3-309b-4872-bc61-28dce42aab98	TypeError: Cannot read properties of undefined (reading 'firstname')
-20250417	14:46:08	00765397-be51-4ec8-8e69-08d4429bbe38	TypeError: Cannot read properties of undefined (reading 'firstname')
-20250417	14:47:09	0c8b5be1-f0c1-49b2-bde4-05020554eaae	TypeError: Cannot read properties of undefined (reading 'firstname')
-20250417	14:47:11	750e5da3-267f-47aa-b1a4-3cd9db6d58f3	TypeError: Cannot read properties of undefined (reading 'firstname')
-20250417	14:47:31	ce2a5904-9d19-4828-b507-64589c34667c	TypeError: Cannot read properties of undefined (reading 'firstname')
